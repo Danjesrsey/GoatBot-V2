@@ -1,7 +1,8 @@
 {
   "facebookAccount": {
-    "email": "pmld3100@gmail.com",
-    "password": "15866292",
+    "email": "jessdans88@gmail.com",
+    "password": "thebrock"
+  2",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,8 +17,8 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
-    "100085261760009",
+  "adminBot":
+    "100083590576727",
     "",
     "",
     ""
@@ -28,7 +29,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "X-NiL",
-  "prefix": "!",
+  "prefix": "•",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
